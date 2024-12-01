@@ -12,7 +12,7 @@ from xgboost import XGBClassifier, XGBRegressor
 from sklearn.model_selection import cross_val_score, cross_validate
 from sklearn.neural_network import MLPRegressor
 
-# data_dir = "./train_vali_data/2016_5_6/"
+data_dir = "./train_vali_data/2016_5_6/"
 # 模型训练x
 train_x = []
 # 模型数据字典
