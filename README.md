@@ -5,8 +5,8 @@ Inpatients with high risk of venous thromboembolism (VTE) usually face serious t
 
 We explained the class imbalance problem from a clinical perspective and defined a new term, "fuzzy population", to elaborate and model this phenomenon. By considering the “fuzzy population”, a new ML VTE risk assessment model was built through population splitting.
 
-![image](https://github.com/user-attachments/assets/6a493a38-7ce3-422b-81a8-acdbdddd9fb2)
+<img src=https://github.com/user-attachments/assets/6a493a38-7ce3-422b-81a8-acdbdddd9fb2 width=60%/>
 <center>Figure 1: The visualization of “Fuzzy Population” and class imbalance problem</center>
 
-![image](https://github.com/user-attachments/assets/d625d6b9-676b-408d-8293-b404de9001fa)
+<img src=https://github.com/user-attachments/assets/d625d6b9-676b-408d-8293-b404de9001fa width=60%/>
 <center>Figure 2. The schema of proposed VTE risk assessment ML approach</center>
