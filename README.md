@@ -7,3 +7,6 @@ We explained the class imbalance problem from a clinical perspective and defined
 
 ![image](https://github.com/user-attachments/assets/6a493a38-7ce3-422b-81a8-acdbdddd9fb2)
 <center>Figure 1: The visualization of “Fuzzy Population” and class imbalance problem</center>
+
+![image](https://github.com/user-attachments/assets/d625d6b9-676b-408d-8293-b404de9001fa)
+<center>Figure 2. The schema of proposed VTE risk assessment ML approach</center>
